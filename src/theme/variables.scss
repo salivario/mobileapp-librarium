@@ -1,0 +1,12 @@
+// For information on how to create your own theme, please see:
+// http://ionicframework.com/docs/theming/
+/* Order */
+@layer reset, primeng;
+
+/* Reset CSS */
+@layer reset {
+    button,
+    input {
+        /* CSS to Reset */
+    }
+}

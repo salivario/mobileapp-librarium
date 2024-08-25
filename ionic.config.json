@@ -1,0 +1,7 @@
+{
+  "name": "Librarium",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
